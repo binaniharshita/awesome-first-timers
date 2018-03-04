@@ -10,6 +10,11 @@
   GitHub: [Andre Peregrina](https://github.com/andreperegrina)  
   Facebook:
 
+- Name: Harshita Binani  
+   Place: Kolkata,India
+   Bio: Coding enthusiast. 
+   Github: [binaniharshita] 
+
 - Name:  Arpit Batra  
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
